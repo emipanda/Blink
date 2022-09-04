@@ -1,0 +1,14 @@
+[   
+    {
+        "id": 0,
+        "question" : "What is the name of Israeli president? [Ben, Dan, Yair]",
+        "type": "single_choice",
+        "answers": {"Ben": 1, "Dan": 1, "Yair": 1}
+    },
+    {
+        "id": 1,
+        "question" : "How many weeks are in a year? [40 , 50 , 52]",
+        "type": "single_choice",
+        "answers": {"40": -1, "50": -1, "52": -1}
+    }
+]
